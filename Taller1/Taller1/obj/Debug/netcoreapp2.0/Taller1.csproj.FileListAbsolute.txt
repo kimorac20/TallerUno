@@ -1,0 +1,11 @@
+E:\DAS\Taller1\Taller1\Taller1\bin\Debug\netcoreapp2.0\Taller1.deps.json
+E:\DAS\Taller1\Taller1\Taller1\bin\Debug\netcoreapp2.0\Taller1.runtimeconfig.json
+E:\DAS\Taller1\Taller1\Taller1\bin\Debug\netcoreapp2.0\Taller1.runtimeconfig.dev.json
+E:\DAS\Taller1\Taller1\Taller1\bin\Debug\netcoreapp2.0\Taller1.dll
+E:\DAS\Taller1\Taller1\Taller1\bin\Debug\netcoreapp2.0\Taller1.pdb
+E:\DAS\Taller1\Taller1\Taller1\obj\Debug\netcoreapp2.0\Taller1.csprojResolveAssemblyReference.cache
+E:\DAS\Taller1\Taller1\Taller1\obj\Debug\netcoreapp2.0\Taller1.csproj.CoreCompileInputs.cache
+E:\DAS\Taller1\Taller1\Taller1\obj\Debug\netcoreapp2.0\Taller1.AssemblyInfoInputs.cache
+E:\DAS\Taller1\Taller1\Taller1\obj\Debug\netcoreapp2.0\Taller1.AssemblyInfo.cs
+E:\DAS\Taller1\Taller1\Taller1\obj\Debug\netcoreapp2.0\Taller1.dll
+E:\DAS\Taller1\Taller1\Taller1\obj\Debug\netcoreapp2.0\Taller1.pdb
